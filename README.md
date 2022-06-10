@@ -31,7 +31,7 @@ Linkedin: http://www.linkedin.com/in/ramoujallow
 # Education
 
 #### [University of Washington]
-- Major: Informatics & Geographic Information Systems
+- Major: Informatics & Data Science
 - Graduation: June 2021
 
 # Work Experience
