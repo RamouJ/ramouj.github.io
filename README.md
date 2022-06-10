@@ -2,6 +2,8 @@
 
 # Ramou Jallow
 
+![Profile Photo](profile.jpg)
+
 Email: ramouj@uw.edu
 
 Linkedin: http://www.linkedin.com/in/ramoujallow
